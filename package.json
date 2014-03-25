@@ -1,0 +1,25 @@
+{
+  "name": "winston-logstash-file",
+  "version": "0.0.1",
+  "description": "File transport in Logstash JSON event format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "winston",
+    "transport",
+    "logstash"
+  ],
+  "author": "Dan Harbin <dan.harbin@gmail.com>",
+  "license": "BSD",
+  "dependencies": {
+    "cycle": "1.0.x"
+  },
+  "peerDependencies": {
+    "winston": ">=0.7.2"
+  },
+  "devDependencies": {
+    "winston": ">=0.7.2"
+  }
+}
