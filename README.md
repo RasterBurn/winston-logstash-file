@@ -20,7 +20,7 @@ winston.add(winston.transports.LogstashFile, {
 ## Sample Output
 
 ```
-{"@message":"Express server listening on port 3000","@timestamp":true,"@fields":{},"level":"info","message":"Express server listening on port 3000","timestamp":"2014-03-25T22:44:16.532Z"}
+{"@message":"Express server listening on port 3000","@timestamp":"2014-03-26T16:41:25.566Z","@fields":{},"level":"info","message":"Express server listening on port 3000","timestamp":"2014-03-26T16:41:25.566Z"}
 ```
 
 ## License

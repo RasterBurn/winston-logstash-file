@@ -1,6 +1,6 @@
 {
   "name": "winston-logstash-file",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "File transport in Logstash JSON event format",
   "main": "index.js",
   "scripts": {
